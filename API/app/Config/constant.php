@@ -4,8 +4,8 @@ define('API_KEY', '156c4675-9608-4591-1111-00000');
 define('ADMIN_API_KEY', '156c4675-9608-4591-1111-00000');
 
 
-date_default_timezone_set('Asia/Karachi');
-define('BASE_URL', 'https://domain.com/mobileapp_api/');
+date_default_timezone_set('Asia/Krachi');
+define('BASE_URL', 'http://40.83.9.70/API');
 define('APP_STATUS', 'live');///demo/live
 define('APP_NAME', 'tictic');
 
@@ -13,10 +13,10 @@ define('ADMIN_RECORDS_PER_PAGE',20);
 define('APP_RECORDS_PER_PAGE',20);
 
 
-define('DATABASE_HOST', 'localhost');
-define('DATABASE_USER', 'password here');
-define('DATABASE_PASSWORD', 'password here');
-define('DATABASE_NAME', 'db name here');
+define('DATABASE_HOST', 'tektekmysql.mysql.database.azure.com');
+define('DATABASE_USER', 'amjadsh345');
+define('DATABASE_PASSWORD', 'idress5566SH');
+define('DATABASE_NAME', 'tektekmysql');
 
 
 
