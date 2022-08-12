@@ -13,10 +13,10 @@ define('ADMIN_RECORDS_PER_PAGE',20);
 define('APP_RECORDS_PER_PAGE',20);
 
 
-define('DATABASE_HOST', 'tektekmysql.mysql.database.azure.com');
-define('DATABASE_USER', 'amjadsh345');
-define('DATABASE_PASSWORD', 'idress5566SH');
-define('DATABASE_NAME', 'tektekmysql');
+define('DATABASE_HOST', 'localhost');
+define('DATABASE_USER', 'vyrcdqszer');
+define('DATABASE_PASSWORD', 'FvzsU5vqqx');
+define('DATABASE_NAME', 'vyrcdqszer');
 
 
 
