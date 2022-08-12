@@ -13,7 +13,7 @@ define('ADMIN_RECORDS_PER_PAGE',20);
 define('APP_RECORDS_PER_PAGE',20);
 
 
-define('DATABASE_HOST', '192.168.1.14');
+define('DATABASE_HOST', 'http://192.168.1.14/');
 define('DATABASE_USER', 'root');
 define('DATABASE_PASSWORD', '');
 define('DATABASE_NAME', 'tektek');
