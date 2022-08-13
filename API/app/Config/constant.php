@@ -5,9 +5,9 @@ define('ADMIN_API_KEY', '156c4675-9608-4591-1111-00000');
 
 
 date_default_timezone_set('Asia/Krachi');
-define('BASE_URL', 'http://40.83.9.70/API/');
+define('BASE_URL', 'https://tektek-7002a-default-rtdb.firebaseio.com/');
 define('APP_STATUS', 'live');///demo/live
-define('APP_NAME', 'tictic');
+define('APP_NAME', 'tektek');
 
 define('ADMIN_RECORDS_PER_PAGE',20);
 define('APP_RECORDS_PER_PAGE',20);
