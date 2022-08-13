@@ -41,13 +41,13 @@ define('VERIFICATION_PHONENO_MESSAGE', 'Your verification code is');
 
 
 //Facebook
-define('FACEBOOK_APP_ID', 'Facebook App ID Here');
-define('FACEBOOK_APP_SECRET', 'App Secret Here');
+define('FACEBOOK_APP_ID', '383495633786593');
+define('FACEBOOK_APP_SECRET', 'e8df1fb75ce139a5aa7f4a34d79b5ec0');
 define('FACEBOOK_GRAPH_VERSION', 'v2.10');
 
 
 //Google
-define('GOOGLE_CLIENT_ID', 'Google Client ID Here.apps.googleusercontent.com');
+define('GOOGLE_CLIENT_ID', '123392624475-9vf29hae1kjgotgv9pni1aoajl35qpto.apps.googleusercontent.com');
 
 //FFMPEG
 
