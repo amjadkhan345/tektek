@@ -13,12 +13,12 @@ define('PRE_FIX' , "musictok_");
 
 //Access Your API URL in browser and you will get a code to put over here that will be something like this https://prnt.sc/w309sg
 
-$baseurl= "http://40.83.9.70/API";
+$baseurl= "http://phpstack-819155-2813690.cloudwaysapps.com/API/";
 define("status" , "live");
 define("API_KEY" , "156c4675-9608-4591-1111-00000");
 
 //firebase database URL
-define('FIREBASE_DB_URL', 'https://your project id here.firebaseio.com/');
+define('FIREBASE_DB_URL', 'https://tektek-7002a-default-rtdb.firebaseio.com/');
 
 
 //dont change any thing here
